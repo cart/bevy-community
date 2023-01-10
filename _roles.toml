@@ -1,0 +1,15 @@
+project-lead = [
+    "cart"
+]
+
+maintainer = [
+    "cart",
+    "mockersf",
+    "alice-i-cecile",
+    "superdump"
+]
+
+sme = [
+    {area="Rendering", id="superdump"},
+    {area="Animation", id="mockersf"}
+]
